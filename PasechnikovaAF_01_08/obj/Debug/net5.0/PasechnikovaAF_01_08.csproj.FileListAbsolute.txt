@@ -1,0 +1,16 @@
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.exe
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.deps.json
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.runtimeconfig.json
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.runtimeconfig.dev.json
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.dll
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\ref\PasechnikovaAF_01_08.dll
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\bin\Debug\net5.0\PasechnikovaAF_01_08.pdb
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.AssemblyInfoInputs.cache
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.AssemblyInfo.cs
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.dll
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\ref\PasechnikovaAF_01_08.dll
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.pdb
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.genruntimeconfig.cache
+C:\Users\305-12\Desktop\PasechnikovaAF_01_08\PasechnikovaAF_01_08\obj\Debug\net5.0\PasechnikovaAF_01_08.csproj.AssemblyReference.cache

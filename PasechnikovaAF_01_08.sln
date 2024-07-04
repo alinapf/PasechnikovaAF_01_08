@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasechnikovaAF_01_08", "PasechnikovaAF_01_08\PasechnikovaAF_01_08.csproj", "{02AC9B4D-A10F-4BB0-AF91-7EE500C9161F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasechnikovaAF_01_08_Tests", "PasechnikovaAF_01_08_Tests\PasechnikovaAF_01_08_Tests.csproj", "{BFC1EEB6-9214-45F0-AEF6-14EC28B4D728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AC9B4D-A10F-4BB0-AF91-7EE500C9161F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AC9B4D-A10F-4BB0-AF91-7EE500C9161F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AC9B4D-A10F-4BB0-AF91-7EE500C9161F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AC9B4D-A10F-4BB0-AF91-7EE500C9161F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC1EEB6-9214-45F0-AEF6-14EC28B4D728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC1EEB6-9214-45F0-AEF6-14EC28B4D728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC1EEB6-9214-45F0-AEF6-14EC28B4D728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC1EEB6-9214-45F0-AEF6-14EC28B4D728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E117892C-82C4-4751-B418-1672C20FB8A5}
+	EndGlobalSection
+EndGlobal
